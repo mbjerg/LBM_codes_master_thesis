@@ -63,7 +63,7 @@ fin[:,:,7] = 1/36
 fin[:,:,8] = 1/36
 
 # weigths and velocity sets
-w  = np.array([4/9,1/9,1/9,1/9,1/9,1/36,1/36,1/36,1/36]) # note that last entry is the resting latice site 0
+w  = np.array([4/9,1/9,1/9,1/9,1/9,1/36,1/36,1/36,1/36]) 
 cx = np.array([0,1,0,-1,0,1,-1,-1,1])
 cy = np.array([0,0,1,0,-1,1,1,-1,-1])
 
