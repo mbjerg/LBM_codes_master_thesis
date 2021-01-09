@@ -1,2 +1,19 @@
-////// 
-Very important master thesis project
+
+------------------------------------------------------------
+
+Lattice Boltzmann Method codes developed during my master 
+thesis project at the Technical University of Denmark (DTU).
+
+Flow cases:
+- Lid Driven Cavity
+- Backward-facing Step
+- Forced Poiseuille Flow
+- Vertical axis wind turbine (VAWT)
+
+Requirements:
+- Python 3 with modules Numpy, Matplotlib, Numba, PyCuda
+- Nvidia GPU
+
+Morten Bjerg
+
+------------------------------------------------------------
